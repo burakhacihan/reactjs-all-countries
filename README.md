@@ -12,4 +12,4 @@ A reactjs project with general information of all countries in the world.
 - Axios
 
 ## Demo
-- 
+- [View live demo](https://all-world-countries.netlify.app)
